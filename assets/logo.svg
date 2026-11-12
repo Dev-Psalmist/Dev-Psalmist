@@ -27,9 +27,10 @@
              M126 160 A96 96 0 0 1 126 352 Z
              M126 186 A70 70 0 0 1 126 326 Z"/>
     <path fill="url(#mark2)" fill-rule="evenodd"
-          d="M244 160 H270 V352 H244 Z
+          d="M244 118 H270 V352 H244 Z
              M270 160 A56 56 0 0 1 270 272 Z
              M270 186 A30 30 0 0 1 270 246 Z"/>
+    <path fill="url(#mark2)" d="M270 118 C 314 124 340 152 332 186 C 324 158 302 142 270 136 Z"/>
   </g>
 
   <rect x="196" y="392" width="120" height="6" rx="3" fill="#7C8BF2" fill-opacity="0.55"/>
