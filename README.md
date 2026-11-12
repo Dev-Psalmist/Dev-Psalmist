@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Dev Psalmist hero: faded psalm street-art behind the intro. Hi, I'm Dev-Psalmist. Python, Java Developer | Backend & Frontend Builder | with little explorative work with AI Explorer | Problem Solver. I'm a developer who turns a requirement into a working system: backend APIs, Less AI-assisted tools, and interfaces that turn messy information into something you can act on. Most of my work is in Python, C++ and TypeScript, and I care about clear structure, tests that check something real, and code the next person can pick up." />
+<img src="assets/hero.svg" width="100%" alt="Dev Psalmist hero: faded psalm street-art behind the intro. Hi, I'm Dev Psalmist. Python, Java Developer | Backend & Frontend Builder | with little explorative work with AI Explorer | Problem Solver. I'm a developer who turns a requirement into a working system: backend APIs, less AI-assisted tools, and interfaces that turn messy information into something you can act on. Most of my work is in Python, C++ and TypeScript, and I care about clear structure, tests that check something real, and code the next person can pick up." />
 
 </div>
 
