@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=900&color=7C8BF2&center=true&vCenter=true&width=700&repeat=false&lines=Hi%2C+I%27m+Samson" alt="Animated line typing out: Hi, I'm Samson" width="700" />
+<img src="assets/logo.svg" width="140" alt="Dev Psalmist logo: a DP monogram in ice blue on a Prussian blue tile" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=900&color=7C8BF2&center=true&vCenter=true&width=700&repeat=false&lines=Hi%2C+I%27m+Dev+Psalmist" alt="Animated line typing out: Hi, I'm Dev Psalmist" width="700" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=7C8BF2&center=true&vCenter=true&width=1000&lines=Python+Developer+%7C+Backend+Builder+%7C+AI+Explorer+%7C+Problem+Solver" alt="Animated typing line reading: Python Developer | Backend Builder | AI Explorer | Problem Solver" width="1000" />
 
@@ -160,6 +162,6 @@ A RESTful backend for an e-commerce platform: product management, user registrat
 
 *Thanks for stopping by. The commit history is the honest version of the story.* 🚀
 
-<sub>© 2026 Ogah Samson Ogah</sub>
+<sub>© 2026 Dev Psalmist</sub>
 
 </div>
