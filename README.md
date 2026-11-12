@@ -69,10 +69,10 @@ Most of my work is in **Python** and **TypeScript**, and I care about **clear st
 <img src="assets/card-stats.svg" width="100%" alt="GitHub in numbers: 13 public repositories, 181 contributions in the last 12 months, 157 commits, 7 pull requests opened and 3 reviews" />
 
 <img src="assets/card-languages.svg" width="49%" alt="Language mix by code files across 12 public repositories: Python 81.5%, TypeScript 8.8%, CSS 6.4%, HTML 2.3%, JavaScript 1.0%" />
-<img src="assets/card-activity.svg" width="49%" alt="Daily contribution counts over the last 30 days, 14 October to 12 November 2026, with a peak of 3 contributions in one day" />
+<img src="assets/card-activity.svg" width="49%" alt="Daily contribution counts over the last 30 days, 14 October to 12 November 2026: 101 contributions, peak of 23 in one day" />
 
 <img src="assets/card-rhythm.svg" width="49%" alt="Commit rhythm heatmap by day of week and hour of day in West Africa Time, 153 commits from public repositories" />
-<img src="assets/card-repos.svg" width="49%" alt="Code files per repository: Code-Advancement 165, Samfilez 83, universal-files 74, livescore-by-cheke 45, Talent-Nation 38" />
+<img src="assets/card-repos.svg" width="49%" alt="Code files per repository: Code-Advancement 165, Samfilez 83, universal-files 76, livescore-by-cheke 45, Talent-Nation 38" />
 
 <img src="https://streak-stats.demolab.com?user=Dev-Psalmist&hide_border=true&background=02010A&stroke=171D5A&ring=7C8BF2&fire=7C8BF2&currStreakLabel=7C8BF2&sideLabels=C6C9DE&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8E93B8" alt="Contribution streak: current and longest streak with total contributions" />
 
