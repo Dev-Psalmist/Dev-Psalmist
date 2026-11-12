@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1180" height="560" viewBox="0 0 1180 560" role="img" aria-labelledby="ht hd">
   <title id="ht">Hi, I&#8217;m Dev Psalmist</title>
-  <desc id="hd">Faded psalm street-art behind the intro. Python Developer | Backend Builder | AI Explorer | Problem Solver. I&#8217;m a developer who turns a requirement into a working system: backend APIs, AI-assisted tools, and interfaces that turn messy information into something you can act on. Most of my work is in Python and TypeScript, and I care about clear structure, tests that check something real, and code the next person can pick up.</desc>
+  <desc id="hd">Faded psalm street-art behind the intro. Python, Java Developer | Backend &amp; Frontend Builder | with little explorative work with AI Explorer | Problem Solver. I&#8217;m a developer who turns a requirement into a working system: backend APIs, less AI-assisted tools, and interfaces that turn messy information into something you can act on. Most of my work is in Python, C++ and TypeScript, and I care about clear structure, tests that check something real, and code the next person can pick up.</desc>
   <defs>
-    <clipPath id="tclip"><rect id="clipRect" x="283.0" y="150" width="614.0" height="64"/></clipPath>
+    <clipPath id="tclip"><rect id="clipRect" x="307.1" y="150" width="565.8" height="60"/></clipPath>
     <filter id="tglow" x="-25%" y="-70%" width="150%" height="240%">
       <feGaussianBlur stdDeviation="8"/>
     </filter>
@@ -22,7 +22,7 @@
   <style>
     #clipRect { animation: type 1.5s steps(20, end) 0.15s both; }
     #caret { animation: blink 1.05s step-end 1.85s infinite; }
-    @keyframes type { from { width: 0; } to { width: 614.0px; } }
+    @keyframes type { from { width: 0; } to { width: 565.8px; } }
     @keyframes blink { 0%,49% { opacity: 1; } 50%,100% { opacity: 0; } }
     .fade { animation: fadein 0.55s ease-out 0.45s both; }
     @keyframes fadein { from { opacity: 0; } to { opacity: 1; } }
@@ -33,18 +33,19 @@
 
   <g filter="url(#tshadow)">
     <g clip-path="url(#tclip)">
-      <text x="590.0" y="198" text-anchor="middle" font-family="'Fira Code','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="50" font-weight="700" fill="#7C8BF2" filter="url(#tglow)" opacity="0.5">Hi, I’m Dev Psalmist</text>
-      <text x="590.0" y="198" text-anchor="middle" font-family="'Fira Code','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="50" font-weight="700" fill="#A3AEFB">Hi, I’m Dev Psalmist</text>
+      <text x="590.0" y="186" text-anchor="middle" font-family="'Fira Code','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="46" font-weight="700" fill="#7C8BF2" filter="url(#tglow)" opacity="0.5">Hi, I’m Dev Psalmist</text>
+      <text x="590.0" y="186" text-anchor="middle" font-family="'Fira Code','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="46" font-weight="700" fill="#A3AEFB">Hi, I’m Dev Psalmist</text>
     </g>
-    <rect id="caret" x="891" y="160" width="3" height="46" fill="#7C8BF2" opacity="0"/>
+    <rect id="caret" x="873.9" y="152" width="3" height="42" fill="#7C8BF2" opacity="0"/>
 
     <g class="fade">
-      <text x="590.0" y="248" text-anchor="middle" font-family="'Fira Code','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="20" fill="#D7DAEA" letter-spacing="0.4">Python Developer | Backend Builder | AI Explorer | Problem Solver</text>
-      <rect x="554.0" y="274" width="72" height="3" rx="1.5" fill="#7C8BF2" fill-opacity="0.7"/>
-      <text x="590.0" y="330" text-anchor="middle" font-family="'Fira Code','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="18" fill="#E1E4F2" fill-opacity="0.95">I’m a developer who turns a requirement into a working system: backend APIs,</text>
-      <text x="590.0" y="362" text-anchor="middle" font-family="'Fira Code','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="18" fill="#E1E4F2" fill-opacity="0.95">AI-assisted tools, and interfaces that turn messy information into something you can act on.</text>
-      <text x="590.0" y="412" text-anchor="middle" font-family="'Fira Code','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="18" fill="#E1E4F2" fill-opacity="0.95">Most of my work is in Python and TypeScript, and I care about clear structure, tests that</text>
-      <text x="590.0" y="444" text-anchor="middle" font-family="'Fira Code','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="18" fill="#E1E4F2" fill-opacity="0.95">check something real, and code the next person can pick up.</text>
+      <text x="590.0" y="230" text-anchor="middle" font-family="'Fira Code','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="18" fill="#D7DAEA" letter-spacing="0.3">Python, Java Developer | Backend &amp; Frontend Builder</text>
+      <text x="590.0" y="256" text-anchor="middle" font-family="'Fira Code','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="18" fill="#D7DAEA" letter-spacing="0.3">with little explorative work with AI Explorer | Problem Solver</text>
+      <rect x="554.0" y="282" width="72" height="3" rx="1.5" fill="#7C8BF2" fill-opacity="0.7"/>
+      <text x="590.0" y="330" text-anchor="middle" font-family="'Fira Code','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="17" fill="#E1E4F2" fill-opacity="0.95">I’m a developer who turns a requirement into a working system: backend APIs, less AI-assisted</text>
+      <text x="590.0" y="360" text-anchor="middle" font-family="'Fira Code','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="17" fill="#E1E4F2" fill-opacity="0.95">tools, and interfaces that turn messy information into something you can act on.</text>
+      <text x="590.0" y="406" text-anchor="middle" font-family="'Fira Code','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="17" fill="#E1E4F2" fill-opacity="0.95">Most of my work is in Python, C++ and TypeScript, and I care about clear structure, tests that</text>
+      <text x="590.0" y="436" text-anchor="middle" font-family="'Fira Code','DejaVu Sans Mono',ui-monospace,Menlo,Consolas,monospace" font-size="17" fill="#E1E4F2" fill-opacity="0.95">check something real, and code the next person can pick up.</text>
     </g>
   </g>
 </svg>
